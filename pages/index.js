@@ -47,7 +47,7 @@ export default function Home() {
                 />
             </head>
             <div>
-                {/* <Hero {...heroProps} /> */}
+                <Hero {...heroProps} />
                 <Manage {...manageProps} />
                 {/** Other sections */}
             </div>
